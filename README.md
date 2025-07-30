@@ -1,49 +1,79 @@
- <h1> <img src="https://telegra.ph/file/f68d824314c3f58ea57f8.jpg" height="90px" width="80px"> 𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 , 𝗧𝗛𝗜𝗦 𝗜𝗦  𓆩ᴅᴏɴᴀᴛᴇ_ᴀʀᴍʏ𓆪  </h1>
+<!-- Profile README for SAGQX -->
+
+<h1 align="center">Hi there 👋, I'm SAGQX</h1>
 <p align="center">
-
-ㅤ[![GIF](https://github.com/DONATE-ARMY-BOTS/DONATE-ARMY-BOTS/blob/main/DONATE-ARMY-BOTS.gif)](https://github.com/WCGKING)
-   [![ 𓆩🇩 🇴 🇳 🇦 🇹 🇪 _🇦 🇷 🇲 🇾 𓆪 ](https://github-stats-alpha.vercel.app/api?username=DONATE-ARMY-BOTS "DONATE-ARMY-BOTS")](https://github-stats-alpha.vercel.app/api?username=DONATE-ARMY-BOTS "DONATE-ARMY-BOTS")
-
- <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🦋𝗗𝗢𝗡𝗔𝗧𝗘_𝗔𝗥𝗠𝗬🦋">
-
-
-<!--
-**DONATE-ARMY-BOTS/DONATE-ARMY-BOTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-<p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/DONATE-ARMY-BOTS/count.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7931E&center=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;AI+and+Automation" alt="Typing SVG" width="80%"/>
 </p>
 
+---
 
-<h1>ʜɪ ! ɪᴛ's ᴍᴇ ᴅᴏɴᴀᴛᴇ_ᴀʀᴍʏ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
+## 🚀 About Me
 
-<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
+- 🔭 I’m currently working on **SkyveniX** (unique dragon-themed tech/brand)
+- 🖋️ Focus: *Full-stack development, automation, and AI tools*
+- 💬 Ask me about **Python, Node.js, cloud, payment integration**
+- 📫 Reach me on Telegram: [@your_telegram](https://t.me/your_telegram)
+- 🌐 Portfolio: [sagqx.com](https://sagqx.com) <!-- Update with your real site -->
 
-![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
+## 🏆 GitHub Stats
 
 <p align="center">
-  <a href="https://t.me/+TEOLVuOuPl01Y2U1"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-    </p>
-<p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SAGQX&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAGQX&theme=radical" width="48%"/>
 </p>
 
-<h3>
-    
-<h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
-  
+---
 
-[<img src="https://github-readme-stats.vercel.app/api?username=DONATE-ARMY-BOTS&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/DONATE-ARMY-BOTS) 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=DONATE-ARMY-BOTS&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/DONATE-ARMY-BOTS) 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING&theme=radical&layout=compact">](https://github.com/DONATE-ARMY-BOTS)
+## 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <!-- Add or remove badges as needed -->
+</p>
 
-| <a href="https://t.me/+TEOLVuOuPl01Y2U1"><img 
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[ᴅᴏɴᴀᴛᴇ_ᴀʀᴍʏ ᴏғ ᴍʏ ᴏᴡɴ ᴡᴏʀʟᴅ 🌎](https://t.me/+TEOLVuOuPl01Y2U1)**                                                                                |
-| <a href="https://t.me/DONATE_OWNER_BOT"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/Lokesk_x82"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://www.youtube.com/channel/TrickyBranded"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a>
-    
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SAGQX&theme=rogue"/>
+</p>
+
+---
+
+## 🐉 Projects
+
+| Project       | Description                            | Tech Stack        | Link                              |
+| ------------- | -------------------------------------- | ----------------- | --------------------------------- |
+| SkyveniX      | Premium tech/branding (dragon-inspired)| Web, Cloud, AI    | [Repo](#)                         |
+| Payment Bot   | Telegram + payment integration         | Python, Telegram  | [Repo](#)                         |
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build Modern Payment Bots](#)
+- [Brand Identity with Unique Themes](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 👤 Let's Connect
+
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" /></a>
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-Connect-blue?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
+
+---
+
+<!-- Quotes, GIFs, or custom art can be added here for more branding -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150"/>
+</p>
