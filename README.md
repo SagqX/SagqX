@@ -1,16 +1,10 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm SagqX</h1></summary>
-  </ul>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pnaXN4dGFkM3M3ZzV6d2F4YjF3bDB0cDd6OW4zZHg0M2s3ZHJodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACQZgAWkU13a/giphy.gif" width="800"/>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWVoZHV4d2V0Ym16eXJzM2RoaTE0bzg3czlkaDR2N2NhaWoxYWZtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5hpueFgs/giphy.gif" width="600" height="300"/>
-</p>
-
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">A Passionate Developer from Earth 🌍</h2></summary>
+    <summary><h1 style="display: inline-block">Hi there, I'm SagqX 👋</h1></summary>
   </ul>
 </div>
 
@@ -25,24 +19,37 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">About Me 👨‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">🚀 About Me 🚀</h2></summary>
   </ul>
 </div>
 
-- 🔭 I’m currently working on **improving my skills and contributing to open source.**
-- 🌱 I’m currently learning **new technologies and frameworks.**
-- 👯 I’m looking to collaborate on **innovative and exciting projects.**
-- 🤔 I’m looking for help with **expanding my knowledge and network.**
-- 💬 Ask me about **anything related to my projects or skills.**
-- 📫 How to reach me: **[Your Email](mailto:your.email@example.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love to watch anime and play video games in my free time!**
+- 🔭 I’m currently diving deep into **new technologies** and leveling up my skills.
+- 🌱 I’m on a journey of continuous learning and growth.
+- 👯 I’m open to collaborating on **open-source projects** that make a difference.
+- 🤔 I’m seeking opportunities to contribute and learn from experienced developers.
+- 💬 Ask me about my projects or anything you're curious about!
+- 📫 You can reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+- ⚡ Fun fact: I believe that with enough coffee and anime, anything is possible!
 
 <hr>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">My Tech Stack 💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,gcp,firebase,git,github,vscode,figma&perline=7" />
+  </a>
+</p>
+
+<hr>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🌐</h2></summary>
   </ul>
 </div>
 
@@ -65,42 +72,45 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Languages and Tools 🛠️</h2></summary>
+    <summary><h2 style="display: inline-block">My GitHub Stats 📊</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,gcp,firebase,git,github,vscode,figma" />
-  </a>
-</p>
-
-<hr>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My GitHub Stats 📈</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://github.com/SagqX">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SagqX&show_icons=true&locale=en&theme=tokyonight" alt="SagqX" />
-  </a>
-  <a href="https://github.com/SagqX">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagqX&layout=compact&locale=en&theme=tokyonight" alt="SagqX" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SagqX&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="SagqX's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagqX&layout=compact&locale=en&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagqX&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SagqX&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 <hr>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Support My Work ☕🍺</h2></summary>
+    <summary><h2 style="display: inline-block">Currently Watching Anime 📺</h2></summary>
+  </ul>
+</div>
+
+<!--START_ANIME_WATCHING-->
+<p align="center">
+  <!-- Add your currently watching anime here! -->
+  <a href="[ANIME_URL]" target="_blank"><img src="[ANIME_IMAGE_URL]" width="150" alt="[ANIME_NAME]"></a>
+  <a href="[ANIME_URL]" target="_blank"><img src="[ANIME_IMAGE_URL]" width="150" alt="[ANIME_NAME]"></a>
+  <a href="[ANIME_URL]" target="_blank"><img src="[ANIME_IMAGE_URL]" width="150" alt="[ANIME_NAME]"></a>
+</p>
+<!--END_ANIME_WATCHING-->
+
+<hr>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Support My Journey 💖</h2></summary>
   </ul>
 </div>
 
@@ -117,4 +127,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+  <p>Thanks for visiting!</p>
 </div>
