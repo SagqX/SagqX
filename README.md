@@ -1,18 +1,54 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+SagqX;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+# 🌌 WELCOME TO SAGQX'S DIGITAL UNIVERSE 🌌
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER+🚀;🌟+BUILDING+THE+FUTURE+🌟;🔥+SAGQX+CODING+UNIVERSE+🔥" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=SagqX&label=UNIVERSE+VISITORS&color=blueviolet&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/followers/SagqX?label=GALACTIC+FOLLOWERS&style=for-the-badge&color=blue&logo=github" />
+<img src="https://img.shields.io/badge/STATUS-CODING%20IN%20PROGRESS-brightgreen?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20MASTERY-ff6b6b?style=for-the-badge&logo=target" />
+
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SagqX&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SagqX?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
-</div>
+## 🤖 SYSTEM INFORMATION
 
-## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+```js
+const sagqx = {
+  name: "SagqX",
+  located_in: "Global 🌍",
+  current_job: "Full Stack Developer",
+  education: [
+    "Self-taught Developer",
+    "Continuous Learner",
+    "Open Source Contributor"
+  ],
+  company: "Building Amazing Things",
+  fields_of_interest: [
+    "Web Development",
+    "Mobile Development",
+    "DevOps",
+    "Machine Learning",
+    "Blockchain"
+  ],
+  technical_background: [
+    "Full Stack Development",
+    "Cloud Architecture",
+    "Database Design",
+    "System Administration"
+  ],
+  currently_learning: [
+    "Advanced React Patterns",
+    "Kubernetes",
+    "Machine Learning",
+    "Blockchain",
+    "Cybersecurity"
+  ]
+};
+console.log("Welcome to SagqX's Digital Universe! 🚀");
