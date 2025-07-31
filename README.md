@@ -121,4 +121,126 @@
 ## 🎯 Current Focus
 
 <div align="center">
+  
+const SagqX = {
+code: ["JavaScript", "Python", "TypeScript", "Go", "Rust"],
+askMeAbout: ["web dev", "tech", "app dev", "AI/ML"],
+technologies: {
+frontEnd: {
+js: ["React", "Vue", "Next.js"],
+css: ["Tailwind", "Bootstrap", "Material-UI"]
+},
+backEnd: {
+js: ["Node", "Express", "Fastify"],
+python: ["Django", "Flask", "FastAPI"],
+},
+databases: ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+cloud: ["AWS", "GCP", "Azure", "Heroku"],
+misc: ["Docker", "Kubernetes", "CI/CD", "GraphQL"]
+},
+currentFocus: "Building scalable applications and contributing to open source",
+challenge: "I am coding 365 days straight challenge!"
+};
 
+
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagqx&repo=awesome-project&theme=tokyonight)](https://github.com/sagqx/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sagqx&repo=cool-app&theme=tokyonight)](https://github.com/sagqx/cool-app)
+
+</div>
+
+---
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+
+🎵 **Music:** Lofi Hip Hop & Electronic  
+🎮 **Gaming:** Strategy & RPG Games  
+📚 **Reading:** Tech Blogs & Sci-Fi Novels  
+🌍 **Traveling:** Exploring new cultures  
+📷 **Photography:** Capturing beautiful moments  
+🍳 **Cooking:** Experimenting with new recipes  
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/SagqX/SagqX/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎉 Thanks for Visiting! 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
+**Visitor Count**  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SagqX.SagqX)
+
+---
+
+### ⭐ Star this repo if you like it! ⭐
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔮 Fun Fact Generator
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 ASCII Art
+
+
+/ // __ / __// | / /
+_ / // / ( // /| |/ /
+/ / ____/_// ___ / /
+/__// // |//
+
+
+
+**"Code is poetry written in logic"** ✨
+
+---
+
+<sub>💡 **Tip:** This README is auto-updated every day with fresh content!</sub>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50">
+
+**Keep coding, keep growing!** 🚀
+
+</div>
