@@ -1,20 +1,20 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+SagqX;%F0%9F%A4%96+AI+%26+Full-Stack+Architect;%E2%9C%A8+Python%2FC%2B%2B%2FTypeScript+Pro;%F0%9F%9A%80+Building+the+Future+With+AI" alt="Animated Typing Intro" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D8FF&background=0D1117&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+SagqX;Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SagqX&theme=onedark&column=7&no-frame=true" alt="Animated Trophies" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SagqX&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SagqX?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SagqX?label=Stars&style=for-the-badge&color=blue" alt="GitHub Stars" />
+</div>
 
-```python
-class SagqX:
-    def __init__(self):
-        self.skills = {
-            "🤖 AI/ML": ["PyTorch", "TensorFlow", "NLP", "Computer Vision"],
-            "💻 Languages": ["Python", "C++", "TypeScript", "Go", "Rust"],
-            "🌐 Web": ["React", "Node.js", "Next.js"],
-            "☁️ Cloud": ["AWS", "GCP", "Kubernetes"]
-        }
-    
-    def build(self):
-        return "⚡ Scalable Intelligent Systems"
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300" alt="Coding Animation"/>
+</div>
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Workflow Animation"/>
+</div>
+
