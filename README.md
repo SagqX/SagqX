@@ -1,3 +1,23 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D8FF&background=0D1117&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+SagqX;Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SagqX&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SagqX?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/SagqX?label=Stars&style=for-the-badge&color=blue" alt="GitHub Stars" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300" alt="Coding Animation"/>
+</div>
+
+## 🚀 About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Workflow Animation"/>
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Tech Animation"/>
@@ -272,3 +292,85 @@ Your University | 2018 - 2022
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+## ☕ Support My Work
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284152-8cbd7371-8b48-4d36-9b12-c5b6b6b5a7b8.gif" width="200" alt="Support Animation"/>
+</div>
+
+If you like my work and want to support me:
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/sagqx" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/sagqx" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://patreon.com/sagqx" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+</div>
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+  
+| 🎯 Activity | ⭐ Level | 📝 Description |
+|:---:|:---:|:---|
+| 🎮 Gaming | Expert | FPS, Strategy, RPG games |
+| 📸 Photography | Intermediate | Landscape and street photography |
+| 🎵 Music Production | Beginner | Electronic and ambient music |
+| ✈️ Traveling | Enthusiast | 15+ countries visited |
+| 🏋️ Fitness | Regular | Weight training and running |
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SagqX/SagqX/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SagqX/SagqX/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SagqX/SagqX/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+## 🌟 Inspiration
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284075-2f495d1c-7e48-4e8c-9b2e-b6b9e6b4c4c8.gif" width="400" alt="Footer Animation"/>
+</div>
+
+> *"The best way to predict the future is to create it."* - Peter Drucker
+
+> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+> *"First, solve the problem. Then, write the code."* - John Johnson
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&height=100&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing+together!;Always+open+to+interesting+conversations+and+collaborations!;Happy+coding!+🚀✨" alt="Footer Typing"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SagqX&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Maintained-Yes-green" alt="Maintained"/>
+</div>
+
+<div align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top"/>
+  </a>
+</div>
