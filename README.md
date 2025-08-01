@@ -347,7 +347,7 @@
 <!-- HOLOGRAPHIC NEXUS CONCLUSION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=200&section=footer&text=HOLOGRAPHIC%20NEXUS&fontSize=40&fontColor=00FFFF&desc=Continue%20Building%20the%20Future&descSize=16&descAlignY=70&animation=twinkling&stroke=FF1493&strokeWidth=2&fontAlignY=35&gradient=45,00FFFF,FF1493,8A2BE2,00FF7F,FFD700)
+<img src="https://capsule-render.vercel.app/api?type=slice&height=200&section=footer&text=HOLOGRAPHIC%20NEXUS&fontSize=40&fontColor=00FFFF&desc=Continue%20Building%20the%20Future&descSize=16&descAlignY=70&animation=twinkling&stroke=FF1493&strokeWidth=2&fontAlignY=35&gradient=45,00FFFF,FF1493,8A2BE2,00FF7F,FFD700">
 
 ### 🌟 "KEEP CODING, KEEP INNOVATING, STAY HOLOGRAPHIC!" 🌟
 
